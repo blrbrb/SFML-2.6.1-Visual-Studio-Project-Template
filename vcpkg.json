@@ -1,0 +1,9 @@
+{
+    "name":"sfml261-project-template", 
+    "version-string": "1.0",
+    "dependencies":[
+    {
+        "name": "sfml",
+        "version>=": "2.6.1"
+    }]
+}
